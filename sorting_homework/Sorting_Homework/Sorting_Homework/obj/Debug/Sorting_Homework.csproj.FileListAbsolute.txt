@@ -1,0 +1,6 @@
+D:\Homework\lesson_4_sorting\sorting_homework\Sorting_Homework\Sorting_Homework\bin\Debug\Sorting_Homework.exe.config
+D:\Homework\lesson_4_sorting\sorting_homework\Sorting_Homework\Sorting_Homework\bin\Debug\Sorting_Homework.exe
+D:\Homework\lesson_4_sorting\sorting_homework\Sorting_Homework\Sorting_Homework\bin\Debug\Sorting_Homework.pdb
+D:\Homework\lesson_4_sorting\sorting_homework\Sorting_Homework\Sorting_Homework\obj\Debug\Sorting_Homework.csprojResolveAssemblyReference.cache
+D:\Homework\lesson_4_sorting\sorting_homework\Sorting_Homework\Sorting_Homework\obj\Debug\Sorting_Homework.exe
+D:\Homework\lesson_4_sorting\sorting_homework\Sorting_Homework\Sorting_Homework\obj\Debug\Sorting_Homework.pdb
