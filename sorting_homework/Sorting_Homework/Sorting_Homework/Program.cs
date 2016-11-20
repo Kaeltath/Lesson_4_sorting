@@ -16,7 +16,7 @@ namespace Sorting_Homework
 
             sortArray = new int[] {1, 2, 6, 4, 3, 5, 6, 5, 7, 0};
             //bubles();
-            //insertSort();
+            insertSort();
             Console.ReadLine();
 
         }
@@ -45,14 +45,14 @@ namespace Sorting_Homework
         {
             for (int i = 1; i < sortArray.Length; i++)
             {
-                int compare = sortArray[i];
+               
                 int j = i;
-                while (j > 0 && compare < sortArray[j - 1])
+                while (j > 0 && sortArray[j]< sortArray[j - 1])
                 {
                     Swap(j, j-1);
                     j--;
                 }
-                sortArray[j] = compare;
+                
             }
         }
 
